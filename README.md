@@ -1,7 +1,7 @@
 # bookcheckout
-Program for ABC Book Company
+Program for Book Checkout Library
 
-This program will help ABC Book Company manage their books more efficiently.This program allows both employees and 
+This program will help a Book Company manage their books more efficiently.This program allows both employees and 
 patrons to checkout, find, and list books. The book list itself is imported from the books.txt file and any changes/ checkouts
 is saved and exported to the same file.
 
